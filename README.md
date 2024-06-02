@@ -4,22 +4,19 @@
   - Using between Routes
 - E-Commerce Application
   - Add to Cart Feature
-# prime users
-Username: rahul
-password: rahul@2021
+# User Accounts
 
-Username: praneetha
-password: praneetha@2021
+## Prime Users
+| Username   | Password          |
+|------------|-------------------|
+| rahul      | rahul@2021        |
+| praneetha  | praneetha@2021    |
+| david      | the_miller@23     |
 
-Username: david
-password: the_miller@23
+## Non-Prime Users
+| Username   | Password              |
+|------------|-----------------------|
+| mosh       | DevMosh22             |
+| henry      | henry_the_developer   |
+| robert     | WilsonRobert45        |
 
-# non prime users
-Username: mosh 
-password: DevMosh22
-
-Username: henry
-password: henry_the_developer
-
-Username: robert
-password: WilsonRobert45
