@@ -4,7 +4,6 @@
   - Using between Routes
 - E-Commerce Application
   - Add to Cart Feature
-# Deployment link|https://newtrends001.ccbp.tech/login
 # prime users
 Username: rahul
 password: rahul@2021
